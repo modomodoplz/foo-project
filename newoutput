@@ -1,0 +1,2 @@
+ls: foo.bar: No such file or directory
+-rw-r--r--@ 1 kira  staff  9  3 23 18:25 foo
